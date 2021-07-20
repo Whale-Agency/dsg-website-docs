@@ -1,0 +1,19 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "DSG Documentation Site",
+        "href": "/docusaurus/"
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docusaurus/": "tutorialSidebar"
+  }
+}

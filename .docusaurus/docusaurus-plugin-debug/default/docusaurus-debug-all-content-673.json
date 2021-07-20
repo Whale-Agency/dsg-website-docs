@@ -1,0 +1,72 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docusaurus/",
+          "versionEditUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/Whale-Agency/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/janinezielman/Documents/Sites/Docs/dsg-website-docs/sidebars.js",
+          "contentPath": "/Users/janinezielman/Documents/Sites/Docs/dsg-website-docs/docs",
+          "contentPathLocalized": "/Users/janinezielman/Documents/Sites/Docs/dsg-website-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "home",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "home"
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docusaurus/": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "home",
+              "id": "home",
+              "isDocsHomePage": false,
+              "title": "DSG Documentation Site",
+              "description": "",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docusaurus/",
+              "editUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/docs/index.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "id": "home",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
