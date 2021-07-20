@@ -3,7 +3,7 @@
   "id": "home",
   "isDocsHomePage": false,
   "title": "DSG Documentation Site",
-  "description": "",
+  "description": "DSG Documentation Site Intro",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",

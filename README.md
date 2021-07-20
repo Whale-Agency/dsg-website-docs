@@ -41,7 +41,11 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-Trigger deployment with github actions, following steps listed [here](https://docusaurus.io/docs/next/deployment#triggering-deployment-with-github-actions)
+First run this:
+```console
+GIT_USER=<GITHUB_USERNAME> yarn deploy
+```
+After that you will be able to trigger deployment with github actions, following the steps listed [here](https://docusaurus.io/docs/next/deployment#triggering-deployment-with-github-actions)
 
 Here it's good to have a master/main branch and a live branch. Every time you commit to this live branch, the action will run:
 
