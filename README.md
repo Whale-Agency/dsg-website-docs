@@ -55,6 +55,6 @@ on:
 
 ## Set default branch
 
-Set 'live' branch to default branch [here](https://github.com/Whale-Agency/docusaurus/settings/branches)
+Set 'live' branch to default branch --> Settings -> Branches
 
 Add a branch protection rule for the live branch --> Enable 'Require pull request reviews before merging'
