@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docusaurus/",
+      "path": "/dsg-website-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docusaurus/",
+          "path": "/dsg-website-docs/",
           "mainDocId": "home",
           "docs": [
             {
               "id": "home",
-              "path": "/docusaurus/",
+              "path": "/dsg-website-docs/",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -3,13 +3,13 @@ import React from 'react';
 import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
-  path: '/docusaurus/',
-  component: ComponentCreator('/docusaurus/','25d'),
+  path: '/dsg-website-docs/',
+  component: ComponentCreator('/dsg-website-docs/','c7b'),
   
   routes: [
 {
-  path: '/docusaurus/',
-  component: ComponentCreator('/docusaurus/','b13'),
+  path: '/dsg-website-docs/',
+  component: ComponentCreator('/dsg-website-docs/','35e'),
   exact: true,
 },
 ]

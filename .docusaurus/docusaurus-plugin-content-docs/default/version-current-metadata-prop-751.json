@@ -9,11 +9,11 @@
       {
         "type": "link",
         "label": "DSG Documentation Site",
-        "href": "/docusaurus/"
+        "href": "/dsg-website-docs/"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docusaurus/": "tutorialSidebar"
+    "/dsg-website-docs/": "tutorialSidebar"
   }
 }

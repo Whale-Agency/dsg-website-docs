@@ -7,8 +7,8 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docusaurus/",
-  "editUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/docs/index.md",
+  "permalink": "/dsg-website-docs/",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/index.md",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {

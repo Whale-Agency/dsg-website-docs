@@ -50,27 +50,27 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.210d7cf4.js",
-          "hash": "24e77390d22adb765d9f",
-          "publicPath": "/docusaurus/assets/js/935f2afb.210d7cf4.js"
+          "file": "assets/js/935f2afb.6338c11f.js",
+          "hash": "7a322038f0d2754a00fc",
+          "publicPath": "/dsg-website-docs/assets/js/935f2afb.6338c11f.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.0e90104b.js",
-          "hash": "33cdc29384131743f0df",
-          "publicPath": "/docusaurus/assets/js/main.0e90104b.js"
+          "file": "assets/js/main.22786cf1.js",
+          "hash": "57c2e4cdbc31385b7ff7",
+          "publicPath": "/dsg-website-docs/assets/js/main.22786cf1.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.38ea9a9d.js",
-          "hash": "a120a20980071fcabd22",
-          "publicPath": "/docusaurus/assets/js/runtime~main.38ea9a9d.js"
+          "file": "assets/js/runtime~main.d74dcb76.js",
+          "hash": "b7f4c1fe93610b968d72",
+          "publicPath": "/dsg-website-docs/assets/js/runtime~main.d74dcb76.js"
         }
       ]
     },
@@ -79,7 +79,7 @@
         {
           "file": "assets/js/1be78505.451a35ae.js",
           "hash": "215d98807e1cc7fcb631",
-          "publicPath": "/docusaurus/assets/js/1be78505.451a35ae.js"
+          "publicPath": "/dsg-website-docs/assets/js/1be78505.451a35ae.js"
         }
       ]
     },
@@ -88,7 +88,7 @@
         {
           "file": "assets/css/styles.1f11f673.css",
           "hash": "795c1325a129fbcf075d",
-          "publicPath": "/docusaurus/assets/css/styles.1f11f673.css"
+          "publicPath": "/dsg-website-docs/assets/css/styles.1f11f673.css"
         }
       ]
     },
@@ -97,7 +97,7 @@
         {
           "file": "assets/js/common.6d0ee374.js",
           "hash": "8c8f3d9d475d1c83936d",
-          "publicPath": "/docusaurus/assets/js/common.6d0ee374.js"
+          "publicPath": "/dsg-website-docs/assets/js/common.6d0ee374.js"
         }
       ]
     },
@@ -106,16 +106,16 @@
         {
           "file": "assets/js/17896441.750165d3.js",
           "hash": "c409177505ac782dd704",
-          "publicPath": "/docusaurus/assets/js/17896441.750165d3.js"
+          "publicPath": "/dsg-website-docs/assets/js/17896441.750165d3.js"
         }
       ]
     },
     "971": {
       "js": [
         {
-          "file": "assets/js/c377a04b.d098c52f.js",
-          "hash": "78a3bd1eb70a5b8d536b",
-          "publicPath": "/docusaurus/assets/js/c377a04b.d098c52f.js"
+          "file": "assets/js/c377a04b.8c8ec408.js",
+          "hash": "f8a9e4cabb177b1636ed",
+          "publicPath": "/dsg-website-docs/assets/js/c377a04b.8c8ec408.js"
         }
       ]
     }

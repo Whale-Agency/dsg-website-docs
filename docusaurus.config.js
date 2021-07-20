@@ -6,12 +6,12 @@ module.exports = {
   title: 'Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://whale-agency.github.io',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/dsg-website-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // favicon: 'img/whale.svg',
   organizationName: 'Whale-Agency', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'dsg-website-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Documentation',
@@ -21,7 +21,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/Whale-Agency/docusaurus',
+          href: 'https://github.com/Whale-Agency/dsg-website-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -45,7 +45,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Whale-Agency/docusaurus/edit/master/website/',
+            'https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -2,11 +2,11 @@ export default {
   "title": "Documentation",
   "tagline": "Dinosaurs are cool",
   "url": "https://whale-agency.github.io",
-  "baseUrl": "/docusaurus/",
+  "baseUrl": "/dsg-website-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "organizationName": "Whale-Agency",
-  "projectName": "docusaurus",
+  "projectName": "dsg-website-docs",
   "themeConfig": {
     "navbar": {
       "title": "Documentation",
@@ -16,7 +16,7 @@ export default {
       },
       "items": [
         {
-          "href": "https://github.com/Whale-Agency/docusaurus",
+          "href": "https://github.com/Whale-Agency/dsg-website-docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -246,7 +246,7 @@ export default {
         "docs": {
           "sidebarPath": "/Users/janinezielman/Documents/Sites/Docs/dsg-website-docs/sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/"
         },
         "theme": {
           "customCss": "/Users/janinezielman/Documents/Sites/Docs/dsg-website-docs/src/css/custom.css"
