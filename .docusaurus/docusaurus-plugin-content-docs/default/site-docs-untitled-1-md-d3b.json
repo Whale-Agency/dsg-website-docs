@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partner_logos",
+  "id": "partner_logos",
+  "isDocsHomePage": false,
+  "title": "Partner Logos",
+  "description": "Styling for .partner-logos, .text-partner-logos",
+  "source": "@site/docs/Untitled-1.md",
+  "sourceDirName": ".",
+  "slug": "/partner_logos",
+  "permalink": "/dsg-website-docs/partner_logos",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/Untitled-1.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "id": "partner_logos",
+    "slug": "partner_logos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DSG Documentation Site",
+    "permalink": "/dsg-website-docs/"
+  }
+}

@@ -1,10 +1,36 @@
 {
-  "/dsg-website-docs/-c7b": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/dsg-website-docs/__docusaurus/debug-8a0": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/dsg-website-docs/__docusaurus/debug/config-470": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/dsg-website-docs/__docusaurus/debug/content-d47": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---dsg-website-docs-docusaurus-debug-content-246-c80"
+  },
+  "/dsg-website-docs/__docusaurus/debug/globalData-e0b": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/dsg-website-docs/__docusaurus/debug/metadata-1ba": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/dsg-website-docs/__docusaurus/debug/registry-a33": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/dsg-website-docs/__docusaurus/debug/routes-0de": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/dsg-website-docs/-de2": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---dsg-website-docs-935-58b"
   },
   "/dsg-website-docs/-35e": {
-    "component": "17896441",
-    "content": "c377a04b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dsg-website-docs-c-37-c78"
+  },
+  "/dsg-website-docs/partner_logos-80c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dsg-website-docs-partner-logos-947-919"
   }
 }

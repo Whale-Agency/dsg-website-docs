@@ -10,10 +10,16 @@
         "type": "link",
         "label": "DSG Documentation Site",
         "href": "/dsg-website-docs/"
+      },
+      {
+        "type": "link",
+        "label": "Partner Logos",
+        "href": "/dsg-website-docs/partner_logos"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/dsg-website-docs/": "tutorialSidebar"
+    "/dsg-website-docs/": "tutorialSidebar",
+    "/dsg-website-docs/partner_logos": "tutorialSidebar"
   }
 }
