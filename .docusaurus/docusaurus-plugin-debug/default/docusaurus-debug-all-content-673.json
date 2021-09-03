@@ -5,9 +5,9 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docusaurus/",
-          "versionEditUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/Whale-Agency/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionPath": "/dsg-website-docs/",
+          "versionEditUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
@@ -20,11 +20,16 @@
               {
                 "type": "doc",
                 "id": "home"
+              },
+              {
+                "type": "doc",
+                "id": "partner_logos"
               }
             ]
           },
           "permalinkToSidebar": {
-            "/docusaurus/": "tutorialSidebar"
+            "/dsg-website-docs/": "tutorialSidebar",
+            "/dsg-website-docs/partner_logos": "tutorialSidebar"
           },
           "docs": [
             {
@@ -32,12 +37,12 @@
               "id": "home",
               "isDocsHomePage": false,
               "title": "DSG Documentation Site",
-              "description": "",
+              "description": "DSG Documentation Site Intro",
               "source": "@site/docs/index.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/docusaurus/",
-              "editUrl": "https://github.com/Whale-Agency/docusaurus/edit/master/website/docs/index.md",
+              "permalink": "/dsg-website-docs/",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/index.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -45,7 +50,35 @@
                 "id": "home",
                 "slug": "/"
               },
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Partner Logos",
+                "permalink": "/dsg-website-docs/partner_logos"
+              }
+            },
+            {
+              "unversionedId": "partner_logos",
+              "id": "partner_logos",
+              "isDocsHomePage": false,
+              "title": "Partner Logos",
+              "description": "Styling for .partner-logos, .text-partner-logos",
+              "source": "@site/docs/partner_logos.md",
+              "sourceDirName": ".",
+              "slug": "/partner_logos",
+              "permalink": "/dsg-website-docs/partner_logos",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/partner_logos.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "id": "partner_logos",
+                "slug": "partner_logos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DSG Documentation Site",
+                "permalink": "/dsg-website-docs/"
+              }
             }
           ]
         }

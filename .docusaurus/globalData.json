@@ -14,6 +14,11 @@
               "id": "home",
               "path": "/dsg-website-docs/",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partner_logos",
+              "path": "/dsg-website-docs/partner_logos",
+              "sidebar": "tutorialSidebar"
             }
           ]
         }

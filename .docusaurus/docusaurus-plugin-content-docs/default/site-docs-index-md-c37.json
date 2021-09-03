@@ -16,5 +16,9 @@
     "id": "home",
     "slug": "/"
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Partner Logos",
+    "permalink": "/dsg-website-docs/partner_logos"
+  }
 }
