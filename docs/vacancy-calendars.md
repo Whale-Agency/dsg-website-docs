@@ -1,7 +1,7 @@
 ---
-sidebar_postition:
-id:
-slug:
+sidebar_postition: 3
+id: calendars
+slug: calendars
 ---
 
 # Calendars
