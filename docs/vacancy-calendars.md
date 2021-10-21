@@ -8,7 +8,7 @@ slug:
 
 Guide on how to add and fill a calendar section on a vacancy page.
 
-
+![IMAGE ALT TEXT HERE](../static/img/calendar-documentation-image.png)
 
 ## Guide
 
