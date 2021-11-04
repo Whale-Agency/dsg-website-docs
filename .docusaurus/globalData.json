@@ -11,6 +11,16 @@
           "mainDocId": "home",
           "docs": [
             {
+              "id": "calendars",
+              "path": "/dsg-website-docs/calendars",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "graphics",
+              "path": "/dsg-website-docs/graphics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "home",
               "path": "/dsg-website-docs/",
               "sidebar": "tutorialSidebar"

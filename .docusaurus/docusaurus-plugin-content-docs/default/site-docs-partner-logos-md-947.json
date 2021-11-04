@@ -20,5 +20,9 @@
   "previous": {
     "title": "DSG Documentation Site",
     "permalink": "/dsg-website-docs/"
+  },
+  "next": {
+    "title": "Graphics",
+    "permalink": "/dsg-website-docs/graphics"
   }
 }

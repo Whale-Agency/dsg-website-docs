@@ -1,0 +1,23 @@
+{
+  "unversionedId": "calendars",
+  "id": "calendars",
+  "isDocsHomePage": false,
+  "title": "Calendars",
+  "description": "Guide on how to add and fill a calendar section on a vacancy page.",
+  "source": "@site/docs/vacancy-calendars.md",
+  "sourceDirName": ".",
+  "slug": "/calendars",
+  "permalink": "/dsg-website-docs/calendars",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/vacancy-calendars.md",
+  "version": "current",
+  "frontMatter": {
+    "sidebar_postition": 3,
+    "id": "calendars",
+    "slug": "calendars"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graphics",
+    "permalink": "/dsg-website-docs/graphics"
+  }
+}

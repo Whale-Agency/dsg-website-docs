@@ -15,10 +15,22 @@
         "type": "link",
         "label": "Partner Logos",
         "href": "/dsg-website-docs/partner_logos"
+      },
+      {
+        "type": "link",
+        "label": "Graphics",
+        "href": "/dsg-website-docs/graphics"
+      },
+      {
+        "type": "link",
+        "label": "Calendars",
+        "href": "/dsg-website-docs/calendars"
       }
     ]
   },
   "permalinkToSidebar": {
+    "/dsg-website-docs/calendars": "tutorialSidebar",
+    "/dsg-website-docs/graphics": "tutorialSidebar",
     "/dsg-website-docs/": "tutorialSidebar",
     "/dsg-website-docs/partner_logos": "tutorialSidebar"
   }
