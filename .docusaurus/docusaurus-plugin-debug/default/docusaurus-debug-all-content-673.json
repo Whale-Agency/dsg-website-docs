@@ -24,14 +24,74 @@
               {
                 "type": "doc",
                 "id": "partner_logos"
+              },
+              {
+                "type": "doc",
+                "id": "graphics"
+              },
+              {
+                "type": "doc",
+                "id": "calendars"
               }
             ]
           },
           "permalinkToSidebar": {
+            "/dsg-website-docs/calendars": "tutorialSidebar",
+            "/dsg-website-docs/graphics": "tutorialSidebar",
             "/dsg-website-docs/": "tutorialSidebar",
             "/dsg-website-docs/partner_logos": "tutorialSidebar"
           },
           "docs": [
+            {
+              "unversionedId": "calendars",
+              "id": "calendars",
+              "isDocsHomePage": false,
+              "title": "Calendars",
+              "description": "Guide on how to add and fill a calendar section on a vacancy page.",
+              "source": "@site/docs/vacancy-calendars.md",
+              "sourceDirName": ".",
+              "slug": "/calendars",
+              "permalink": "/dsg-website-docs/calendars",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/vacancy-calendars.md",
+              "version": "current",
+              "frontMatter": {
+                "sidebar_postition": 3,
+                "id": "calendars",
+                "slug": "calendars"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Graphics",
+                "permalink": "/dsg-website-docs/graphics"
+              }
+            },
+            {
+              "unversionedId": "graphics",
+              "id": "graphics",
+              "isDocsHomePage": false,
+              "title": "Graphics",
+              "description": "Guide on how to add graphics to specific sections on the page.",
+              "source": "@site/docs/dsg_graphics.md",
+              "sourceDirName": ".",
+              "slug": "/graphics",
+              "permalink": "/dsg-website-docs/graphics",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/dsg_graphics.md",
+              "version": "current",
+              "frontMatter": {
+                "sidebar_postition": 4,
+                "id": "graphics",
+                "slug": "graphics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Partner Logos",
+                "permalink": "/dsg-website-docs/partner_logos"
+              },
+              "next": {
+                "title": "Calendars",
+                "permalink": "/dsg-website-docs/calendars"
+              }
+            },
             {
               "unversionedId": "home",
               "id": "home",
@@ -78,6 +138,10 @@
               "previous": {
                 "title": "DSG Documentation Site",
                 "permalink": "/dsg-website-docs/"
+              },
+              "next": {
+                "title": "Graphics",
+                "permalink": "/dsg-website-docs/graphics"
               }
             }
           ]

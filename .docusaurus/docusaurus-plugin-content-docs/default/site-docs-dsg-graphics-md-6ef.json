@@ -1,0 +1,27 @@
+{
+  "unversionedId": "graphics",
+  "id": "graphics",
+  "isDocsHomePage": false,
+  "title": "Graphics",
+  "description": "Guide on how to add graphics to specific sections on the page.",
+  "source": "@site/docs/dsg_graphics.md",
+  "sourceDirName": ".",
+  "slug": "/graphics",
+  "permalink": "/dsg-website-docs/graphics",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/dsg_graphics.md",
+  "version": "current",
+  "frontMatter": {
+    "sidebar_postition": 4,
+    "id": "graphics",
+    "slug": "graphics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partner Logos",
+    "permalink": "/dsg-website-docs/partner_logos"
+  },
+  "next": {
+    "title": "Calendars",
+    "permalink": "/dsg-website-docs/calendars"
+  }
+}
