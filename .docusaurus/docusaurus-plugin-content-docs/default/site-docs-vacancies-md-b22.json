@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vacancies",
+  "id": "vacancies",
+  "isDocsHomePage": false,
+  "title": "Vacancies",
+  "description": "Guide on how to add the additional content for each vacancy.",
+  "source": "@site/docs/vacancies.md",
+  "sourceDirName": ".",
+  "slug": "/vacancies",
+  "permalink": "/dsg-website-docs/vacancies",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/vacancies.md",
+  "version": "current",
+  "frontMatter": {
+    "sidebar_postition": 5,
+    "id": "vacancies",
+    "slug": "vacancies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image SLider",
+    "permalink": "/dsg-website-docs/image_slider"
+  },
+  "next": {
+    "title": "Calendars",
+    "permalink": "/dsg-website-docs/calendars"
+  }
+}

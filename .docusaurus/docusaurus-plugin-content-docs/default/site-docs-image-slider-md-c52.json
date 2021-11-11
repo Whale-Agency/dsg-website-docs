@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Image Slider",
+  "id": "Image Slider",
+  "isDocsHomePage": false,
+  "title": "Image SLider",
+  "description": "Guide on how to add content for the image slider on the stages and traineeships page.",
+  "source": "@site/docs/image_slider.md",
+  "sourceDirName": ".",
+  "slug": "/image_slider",
+  "permalink": "/dsg-website-docs/image_slider",
+  "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/image_slider.md",
+  "version": "current",
+  "frontMatter": {
+    "sidebar_postition": 5,
+    "id": "Image Slider",
+    "slug": "image_slider"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graphics",
+    "permalink": "/dsg-website-docs/graphics"
+  },
+  "next": {
+    "title": "Vacancies",
+    "permalink": "/dsg-website-docs/vacancies"
+  }
+}

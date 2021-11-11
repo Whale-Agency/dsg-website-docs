@@ -8,7 +8,7 @@ slug: graphics
 
 Guide on how to add graphics to specific sections on the page.
 
-![IMAGE ALT TEXT HERE](../static/img/graphics.png)
+![Graphics](../static/img/graphics.png)
 
 List of classes that render the different graphics + positions:
 - graphic-1-left

@@ -39,7 +39,7 @@ export default [
 },
 {
   path: '/dsg-website-docs/',
-  component: ComponentCreator('/dsg-website-docs/','e30'),
+  component: ComponentCreator('/dsg-website-docs/','a73'),
   
   routes: [
 {
@@ -58,8 +58,18 @@ export default [
   exact: true,
 },
 {
+  path: '/dsg-website-docs/image_slider',
+  component: ComponentCreator('/dsg-website-docs/image_slider','509'),
+  exact: true,
+},
+{
   path: '/dsg-website-docs/partner_logos',
   component: ComponentCreator('/dsg-website-docs/partner_logos','80c'),
+  exact: true,
+},
+{
+  path: '/dsg-website-docs/vacancies',
+  component: ComponentCreator('/dsg-website-docs/vacancies','49b'),
   exact: true,
 },
 ]

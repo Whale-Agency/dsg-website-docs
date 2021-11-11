@@ -31,6 +31,14 @@
               },
               {
                 "type": "doc",
+                "id": "Image Slider"
+              },
+              {
+                "type": "doc",
+                "id": "vacancies"
+              },
+              {
+                "type": "doc",
                 "id": "calendars"
               }
             ]
@@ -39,7 +47,9 @@
             "/dsg-website-docs/calendars": "tutorialSidebar",
             "/dsg-website-docs/graphics": "tutorialSidebar",
             "/dsg-website-docs/": "tutorialSidebar",
-            "/dsg-website-docs/partner_logos": "tutorialSidebar"
+            "/dsg-website-docs/image_slider": "tutorialSidebar",
+            "/dsg-website-docs/partner_logos": "tutorialSidebar",
+            "/dsg-website-docs/vacancies": "tutorialSidebar"
           },
           "docs": [
             {
@@ -61,8 +71,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Graphics",
-                "permalink": "/dsg-website-docs/graphics"
+                "title": "Vacancies",
+                "permalink": "/dsg-website-docs/vacancies"
               }
             },
             {
@@ -88,8 +98,8 @@
                 "permalink": "/dsg-website-docs/partner_logos"
               },
               "next": {
-                "title": "Calendars",
-                "permalink": "/dsg-website-docs/calendars"
+                "title": "Image SLider",
+                "permalink": "/dsg-website-docs/image_slider"
               }
             },
             {
@@ -114,6 +124,33 @@
               "next": {
                 "title": "Partner Logos",
                 "permalink": "/dsg-website-docs/partner_logos"
+              }
+            },
+            {
+              "unversionedId": "Image Slider",
+              "id": "Image Slider",
+              "isDocsHomePage": false,
+              "title": "Image SLider",
+              "description": "Guide on how to add content for the image slider on the stages and traineeships page.",
+              "source": "@site/docs/image_slider.md",
+              "sourceDirName": ".",
+              "slug": "/image_slider",
+              "permalink": "/dsg-website-docs/image_slider",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/image_slider.md",
+              "version": "current",
+              "frontMatter": {
+                "sidebar_postition": 5,
+                "id": "Image Slider",
+                "slug": "image_slider"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Graphics",
+                "permalink": "/dsg-website-docs/graphics"
+              },
+              "next": {
+                "title": "Vacancies",
+                "permalink": "/dsg-website-docs/vacancies"
               }
             },
             {
@@ -142,6 +179,33 @@
               "next": {
                 "title": "Graphics",
                 "permalink": "/dsg-website-docs/graphics"
+              }
+            },
+            {
+              "unversionedId": "vacancies",
+              "id": "vacancies",
+              "isDocsHomePage": false,
+              "title": "Vacancies",
+              "description": "Guide on how to add the additional content for each vacancy.",
+              "source": "@site/docs/vacancies.md",
+              "sourceDirName": ".",
+              "slug": "/vacancies",
+              "permalink": "/dsg-website-docs/vacancies",
+              "editUrl": "https://github.com/Whale-Agency/dsg-website-docs/edit/master/website/docs/vacancies.md",
+              "version": "current",
+              "frontMatter": {
+                "sidebar_postition": 5,
+                "id": "vacancies",
+                "slug": "vacancies"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Image SLider",
+                "permalink": "/dsg-website-docs/image_slider"
+              },
+              "next": {
+                "title": "Calendars",
+                "permalink": "/dsg-website-docs/calendars"
               }
             }
           ]
