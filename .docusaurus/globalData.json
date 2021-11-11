@@ -26,8 +26,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Image Slider",
+              "path": "/dsg-website-docs/image_slider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "partner_logos",
               "path": "/dsg-website-docs/partner_logos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vacancies",
+              "path": "/dsg-website-docs/vacancies",
               "sidebar": "tutorialSidebar"
             }
           ]

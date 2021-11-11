@@ -21,7 +21,7 @@
   "/dsg-website-docs/__docusaurus/debug/routes-0de": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/dsg-website-docs/-e30": {
+  "/dsg-website-docs/-a73": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---dsg-website-docs-935-58b"
   },
@@ -37,8 +37,16 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---dsg-website-docs-graphics-6-ef-895"
   },
+  "/dsg-website-docs/image_slider-509": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dsg-website-docs-image-sliderc-52-a63"
+  },
   "/dsg-website-docs/partner_logos-80c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---dsg-website-docs-partner-logos-947-919"
+  },
+  "/dsg-website-docs/vacancies-49b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dsg-website-docs-vacanciesb-22-3d1"
   }
 }
