@@ -4,6 +4,6 @@ id: home
 slug: /
 ---
 
-# DSG Documentation Site
+# DSG Documentation
 
-DSG Documentation Site Intro
+On this documentation site you will find various guides and protocols that need to be followed in order to keep the website working as expected.
