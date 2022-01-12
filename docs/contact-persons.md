@@ -1,5 +1,5 @@
 ---
-sidebar_postition: 3
+sidebar_postition: 7
 id: contact-persons
 slug: contact-persons
 ---

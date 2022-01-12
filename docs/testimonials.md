@@ -1,5 +1,5 @@
 ---
-sidebar_postition: 3
+sidebar_postition: 5
 id: testimonials
 slug: testimonials
 ---

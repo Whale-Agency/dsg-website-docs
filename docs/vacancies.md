@@ -1,5 +1,5 @@
 ---
-sidebar_postition: 5
+sidebar_postition: 3
 id: vacancies
 slug: vacancies
 ---

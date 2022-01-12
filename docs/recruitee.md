@@ -1,5 +1,5 @@
 ---
-sidebar_postition: 3
+sidebar_postition: 2
 id: recruitee
 slug: recruitee
 ---
