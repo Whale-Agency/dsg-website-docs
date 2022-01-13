@@ -8,7 +8,7 @@ slug: contact-persons
 
 Guide on how to manage contact persons and their information. This covers creating contact persons, assigning a contact person to formulas / departments and setting up the general contact person
 
-![IMAGE ALT TEXT HERE](../static/img/calendar-documentation-image.png)
+![IMAGE ALT TEXT HERE](../static/img/contact-person-1.png)
 
 
 ## Setting up contact person
@@ -24,3 +24,14 @@ Guide on how to manage contact persons and their information. This covers creati
 5. In the “Department” field, on the right side, check the departments of which this person will be the contact person
 
 6. Make sure to click “Publish” to finish creating the new contact person
+
+
+## Setting up a general contact person
+
+The general contact person will be displayed on the "Over ons" page and for vacancies that have a department / formula for which no contact person has been assigned.
+
+1. Log into Wordpress and navigate to "Global settings”
+
+2. Navigate to “General comtact person”
+
+3. Select a contact person from the menu and click "Update" to save changes
