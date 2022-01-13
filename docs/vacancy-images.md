@@ -8,10 +8,11 @@ slug: vacancy-images
 
 Guide on how to manage images for vacancies. This mainly covers setting up default images for new vacancies based on the vacancy category.
 
-![IMAGE ALT TEXT HERE](../static/img/calendar-documentation-image.png)
+![IMAGE ALT TEXT HERE](../static/img/vacancy-image-1.png)
 
 
 ## Setting up default images and testimonials per vacancy category
+
 
 1. Log into Wordpress and navigate to “Global settings”
 
