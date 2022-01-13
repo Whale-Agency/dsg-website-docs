@@ -6,7 +6,9 @@ slug: contact-persons
 
 # Short description
 
-Guide on how to manage the short description shown in the cover section of the vacancy page. This covers setting up a default short description based on the formula of a vacancy and manually changing the description per vacancy.
+Guide on how to manage the short description shown in the cover section of the vacancy page. This covers setting up a default short description based on the formula of a vacancy and manually changing the description per individual vacancy.
+
+![IMAGE ALT TEXT HERE](../static/img/job-short-des.png)
 
 
 ## Setting up default short description (shown in cover section on vacancy page)
