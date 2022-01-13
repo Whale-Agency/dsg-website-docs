@@ -11,7 +11,7 @@ Guide on how to manage images for vacancies. This mainly covers setting up defau
 ![IMAGE ALT TEXT HERE](../static/img/calendar-documentation-image.png)
 
 
-## Setting up default images and testimonials
+## Setting up default images and testimonials per vacancy category
 
 1. Log into Wordpress and navigate to “Global settings”
 
