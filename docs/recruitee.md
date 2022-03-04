@@ -24,3 +24,5 @@ Information on how to follow certain protocols when working within Recruitee. Fo
     1. Motivatiebrief
     2. Nog vragen of opmerken?
     3. *Any other "screeningvragen"*
+
+Please inform Teun if any additions are needed

@@ -40,8 +40,6 @@ Guide on how to create/manage and add testimonials to vacancies. This also cover
 5. Make sure to click “Update” at the top of the page to save any changes you made to this vacancy.
 
 
-![IMAGE ALT TEXT HERE](../static/img/testimonials-image-2.png)
-
 
 # Setting up default testimonials based on vacancy category
 
